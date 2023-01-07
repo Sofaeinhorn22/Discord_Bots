@@ -9,17 +9,18 @@ print('Bot ok')
 @bot.command(
     name="xxx",
     description="XXxXX",
-    scope=918234675061878855,
+    scope=XXXXXX,
 )
 async def mc(ctx: interactions.CommandContext):
         await ctx.send("xXx")
     
     
+    ### Still not Working!### 
 ### /M4
 @bot.command(
     name="m4",
     description="Details on the M4",
-    scope=918234675061878855,
+    scope=XXXXXX,
 )
 async def m4(ctx: interactions.CommandContext):
         embed=discord.Embed(title="M4", description="Details on the M4", color=0x0000ff)
