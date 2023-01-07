@@ -4,7 +4,7 @@ from discord import Client
 
 bot = Client()
 bot = interactions.Client(token="XXXXXXXXX")
-print('Eingeloggt als')
+print('Bot gestartet')
 
 
 ### /example
