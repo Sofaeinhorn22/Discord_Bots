@@ -3,7 +3,7 @@ from discord import Client
 
 
 bot = Client()
-bot = interactions.Client(token="OTc4MDA1MjYzMTA3ODkxMjcx.GqKAAU.tYiONs5qTuBowtuvkkM7-DRh1BwU5gQna5qopU")
+bot = interactions.Client(token="XXXXXXXXX")
 print('Eingeloggt als')
 
 
